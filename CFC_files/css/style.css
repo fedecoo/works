@@ -1234,6 +1234,7 @@ nav {
   display: none; }
 
 .logo-image img {
+  height: 61px;
   max-height: 150px; }
 
 .pf-nav-social {
